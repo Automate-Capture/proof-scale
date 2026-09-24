@@ -5,7 +5,7 @@ Thank you for your interest in contributing to ProofScale!
 ## Development Setup
 
 ```bash
-git clone https://github.com/Lumi-node/proof-scale.git
+git clone https://github.com/Automate-Capture/proof-scale.git
 cd proof-scale
 pip install -e ".[dev]"
 ```

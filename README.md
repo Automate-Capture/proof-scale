@@ -7,10 +7,10 @@
 <p align="center"><strong>Population‑level test‑time scaling for LLM‑driven mathematical proofs.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/Lumi-node/proof-scale"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub"></a>
-  <a href="https://github.com/Lumi-node/proof-scale/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
-  <a href="https://github.com/Lumi-node/proof-scale/actions"><img src="https://img.shields.io/badge/tests-54-success.svg" alt="Tests"></a>
-  <a href="https://lumi-node.github.io/proof-scale/"><img src="https://img.shields.io/badge/docs-online-blue.svg" alt="Docs"></a>
+  <a href="https://github.com/Automate-Capture/proof-scale"><img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github" alt="GitHub"></a>
+  <a href="https://github.com/Automate-Capture/proof-scale/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License"></a>
+  <a href="https://github.com/Automate-Capture/proof-scale/actions"><img src="https://img.shields.io/badge/tests-54-success.svg" alt="Tests"></a>
+  <a href="https://automate-capture.github.io/proof-scale/"><img src="https://img.shields.io/badge/docs-online-blue.svg" alt="Docs"></a>
 </p>
 
 ---
@@ -20,13 +20,13 @@ ProofScale turns a single proof attempt into a population: generate many candida
 ## Installation
 
 ```bash
-pip install git+https://github.com/Lumi-node/proof-scale.git
+pip install git+https://github.com/Automate-Capture/proof-scale.git
 ```
 
 Requires Python ≥ 3.10. To work on the project locally:
 
 ```bash
-git clone https://github.com/Lumi-node/proof-scale.git
+git clone https://github.com/Automate-Capture/proof-scale.git
 cd proof-scale
 pip install -e ".[dev]"
 pytest -q
@@ -69,7 +69,7 @@ print(result.confidence)
 
 ## Documentation
 
-📖 Full documentation: [https://lumi-node.github.io/proof-scale/](https://lumi-node.github.io/proof-scale/)
+📖 Full documentation: [https://automate-capture.github.io/proof-scale/](https://automate-capture.github.io/proof-scale/)
 📄 Technical paper: see [`paper/`](paper/) for the LaTeX source and compiled PDF.
 
 > This is a reference implementation produced by an autonomous research pipeline. It is not published to PyPI; install from source as shown above.

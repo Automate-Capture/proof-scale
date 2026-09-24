@@ -3,7 +3,7 @@
 Install the latest version directly from GitHub:
 
 ```bash
-pip install git+https://github.com/Lumi-node/proof-scale.git
+pip install git+https://github.com/Automate-Capture/proof-scale.git
 ```
 
 Requires Python ≥ 3.10.
@@ -11,7 +11,7 @@ Requires Python ≥ 3.10.
 ### Development install
 
 ```bash
-git clone https://github.com/Lumi-node/proof-scale.git
+git clone https://github.com/Automate-Capture/proof-scale.git
 cd proof-scale
 pip install -e ".[dev]"
 pytest -q

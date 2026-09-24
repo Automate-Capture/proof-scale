@@ -39,10 +39,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lumi-node/proof-scale"
-Documentation = "https://lumi-node.github.io/proof-scale/"
-Repository = "https://github.com/Lumi-node/proof-scale"
-Issues = "https://github.com/Lumi-node/proof-scale/issues"
+Homepage = "https://github.com/Automate-Capture/proof-scale"
+Documentation = "https://automate-capture.github.io/proof-scale/"
+Repository = "https://github.com/Automate-Capture/proof-scale"
+Issues = "https://github.com/Automate-Capture/proof-scale/issues"
 
 [tool.ruff]
 line-length = 100
